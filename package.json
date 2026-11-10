@@ -1,0 +1,9 @@
+{
+  "name": "vetrun-relay",
+  "version": "0.21.25",
+  "description": "Room-code WebSocket relay for Vet Run online co-op",
+  "main": "relay.js",
+  "scripts": { "start": "node relay.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
